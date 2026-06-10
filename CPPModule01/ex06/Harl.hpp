@@ -6,7 +6,7 @@
 /*   By: cassunca <cassunca@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/06/05 05:07:06 by cassunca          #+#    #+#             */
-/*   Updated: 2026/06/05 05:10:47 by cassunca         ###   ########.fr       */
+/*   Updated: 2026/06/10 15:11:56 by cassunca         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -26,6 +26,7 @@ class Harl
     
     public:
         void    complain( std::string level );
+        
 };
 
 #endif
